@@ -1,4 +1,3 @@
-import { auth } from "../firebase";
 import { styled } from "styled-components";
 import PostTweetForm from "../components/post-tweet-form";
 import Timeline from "../components/timeline";
